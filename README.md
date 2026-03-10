@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**anapaula-sv/anapaula-sv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ana Paula e sou estudante de Engenharia de Software. Atualmente estou desenvolvendo minhas habilidades em programação e construindo projetos para colocar em prática o que venho aprendendo.
 
-Here are some ideas to get you started:
+Tenho interesse em desenvolvimento de software, banco de dados e também na área de cibersegurança, na qual já comecei a estudar alguns conceitos básicos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologias que estou estudando
+
+* Python
+* Java
+* Git
+* GitHub
+
+## 📚 Áreas de estudo
+
+* Banco de dados
+* Cibersegurança
+
+## 📂 Projetos
+
+Aqui você encontrará alguns projetos que desenvolvi para praticar programação e reforçar os conhecimentos que venho adquirindo durante meus estudos.
+
+*(Novos projetos serão adicionados em breve!)*
+
