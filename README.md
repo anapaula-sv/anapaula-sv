@@ -8,8 +8,8 @@ Tenho interesse em desenvolvimento de software, banco de dados e também na áre
 
 * Python
 * Java
-* Git
-* GitHub
+* C
+* SQL
 
 ## 📚 Áreas de estudo
 
