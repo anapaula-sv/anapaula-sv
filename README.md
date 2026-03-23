@@ -20,5 +20,4 @@ Tenho interesse em desenvolvimento de software, banco de dados e também na áre
 
 Aqui você encontrará alguns projetos que desenvolvi para praticar programação e reforçar os conhecimentos que venho adquirindo durante meus estudos.
 
-*(Novos projetos serão adicionados em breve!)*
 
