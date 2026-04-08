@@ -1,18 +1,20 @@
 # Olá! 👋
 
 Meu nome é **Ana Paula** e sou estudante de **Engenharia de Software**.
-Atualmente estou desenvolvendo minhas habilidades em programação e construindo projetos para aplicar, na prática, os conhecimentos que venho adquirindo.
+Atualmente estou focada em desenvolver minhas habilidades em programação, construindo projetos para aplicar na prática o que venho aprendendo.
 
-Tenho interesse em **desenvolvimento de software**, **banco de dados** e também na área de **cibersegurança**, onde já iniciei meus estudos com conceitos fundamentais.
+Tenho interesse em desenvolvimento back-end, banco de dados e cibersegurança.
 
 ---
 
-## 🚀 Tecnologias que estou estudando
+## 🚀 Tecnologias
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=database\&logoColor=white)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="C" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="SQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</div>
 
 ---
 
@@ -26,17 +28,13 @@ Tenho interesse em **desenvolvimento de software**, **banco de dados** e também
 
 ## 📂 Projetos
 
-Aqui você encontrará alguns projetos que desenvolvi para praticar programação e reforçar meus conhecimentos.
-
-Cada projeto representa um passo na minha evolução como desenvolvedora 🚀
+Aqui você encontrará projetos que desenvolvi para praticar programação e fortalecer meus conhecimentos.
 
 ---
 
-## 📊 Estatísticas
+## 📊 GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anapaula-sv\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anapaula-sv\&layout=compact\&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anapaula-sv\&show_icons=true)
 
 ---
 
@@ -44,6 +42,7 @@ Cada projeto representa um passo na minha evolução como desenvolvedora 🚀
 
 * LinkedIn: www.linkedin.com/in/ana-paula-oliveira-1759242ab
 
+
 ---
 
-✨ Sempre em busca de evolução e novos desafios!
+✨ Em constante evolução na área de tecnologia.
