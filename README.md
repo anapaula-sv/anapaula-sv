@@ -9,12 +9,14 @@ Tenho interesse em desenvolvimento back-end, banco de dados e cibersegurança.
 
 ## 🚀 Tecnologias
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="C" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="SQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-</div>
+## 🚀 Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="40" style="margin-right: 10px;">
+  <img src="https://skillicons.dev/icons?i=java" height="40" style="margin-right: 10px;">
+  <img src="https://skillicons.dev/icons?i=c" height="40" style="margin-right: 10px;">
+  <img src="https://skillicons.dev/icons?i=mysql" height="40">
+</p>
 
 ---
 
@@ -29,12 +31,6 @@ Tenho interesse em desenvolvimento back-end, banco de dados e cibersegurança.
 ## 📂 Projetos
 
 Aqui você encontrará projetos que desenvolvi para praticar programação e fortalecer meus conhecimentos.
-
----
-
-## 📊 GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anapaula-sv\&show_icons=true)
 
 ---
 
