@@ -9,8 +9,6 @@ Tenho interesse em desenvolvimento back-end, banco de dados e cibersegurança.
 
 ## 🚀 Tecnologias
 
-## 🚀 Tecnologias
-
 <p>
   <img src="https://skillicons.dev/icons?i=python" height="40" style="margin-right: 10px;">
   <img src="https://skillicons.dev/icons?i=java" height="40" style="margin-right: 10px;">
