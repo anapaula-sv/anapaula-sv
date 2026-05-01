@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://i.ibb.co/W4Ljw6cD/Banner-Linkedin-Rosa-e-Azul-Colorido-1.png" width="100%" alt="Banner Ana Paula - Engenharia de Software">
+  <img src="https://i.ibb.co/MxmQ4sR8/Banner-Linkedin-Rosa-e-Azul-Colorido-1.png" width="100%" alt="Banner Ana Paula - Engenharia de Software">
 </div>
 
 # Olá, eu sou a Ana Paula! 👋
 
 ### 👩‍💻 Sobre mim
-Sou estudante de **Engenharia de Software** e trabalho com tecnologia. Atualmente, meu foco principal é o ecossistema **Python** e o desenvolvimento de soluções voltadas para o **Back-end**.
+Sou estudante de **Engenharia de Software** e trabalho na área de tecnologia. Atualmente, foco meus estudos no ecossistema **Python** e no desenvolvimento de soluções voltadas para o **Back-end**.
 
 * 🔭 **Projeto Atual:** Desenvolvendo um sistema de gestão para mercearias.
 * ⚡ **Interesses:** Cibersegurança, Banco de Dados e Automação de Sistemas.
