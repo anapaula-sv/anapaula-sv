@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://i.ibb.co/v4mS8Xp/banner-ana.png" width="100%" alt="Banner Ana Paula">
+  <img src="https://i.ibb.co/KxbNFy9M/Banner-Linkedin-Rosa-e-Azul-Colorido-1.png" width="100%" alt="Banner Ana Paula">
 </div>
 
 # Olá, eu sou a Ana Paula! 👋
 
 ### 👩‍💻 Sobre mim
-Sou estudante de **Engenharia de Software** e trabalho com tecnologia. Atualmente, foco meus estudos no ecossistema **Python** e no desenvolvimento de soluções voltadas para o **Back-end**.
+Sou estudante de **Engenharia de Software** e atuo na área de tecnologia. Atualmente, foco meus estudos no ecossistema **Python** e no desenvolvimento de soluções voltadas para o **Back-end**.
 
 * 🔭 **Projeto Atual:** Desenvolvendo um sistema de gestão para mercearias.
-* ⚡ **Interesses:** Cibersegurança, Banco de Dados e Automação.
-* 📚 **Estudos:** Focada em Python (Data libraries), Linguagem C e Engenharia de Software Moderna.
+* ⚡ **Interesses:** Cibersegurança, Banco de Dados e Automação de Sistemas.
+* 📚 **Estudos:** Focada em Python (bibliotecas de dados), Linguagem C, Java e Engenharia de Software Moderna.
 
 ---
 
@@ -17,19 +17,20 @@ Sou estudante de **Engenharia de Software** e trabalho com tecnologia. Atualment
 
 **Linguagens e Backend:**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,mysql&theme=dark" height="40">
+  <img src="https://skillicons.dev/icons?i=python,java,c,mysql&theme=dark" height="40">
 </p>
 
-**Ferramentas e Produtividade:**
+**Ferramentas e Ambiente:**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,brave&theme=dark" height="40">
 </p>
 
 ---
 
-### 📊 Meu Desempenho
+### 📊 Estatísticas do GitHub
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anapaula-sv&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapaula-sv&layout=compact&langs_count=7&theme=nord"/>
 </p>
 
 ---
@@ -39,7 +40,7 @@ Sou estudante de **Engenharia de Software** e trabalho com tecnologia. Atualment
   <a href="mailto:anapaula.silva12125@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/ana-paula-oliveira-1759242ab" target="_blank">
+  <a href="https:www.linkedin.com/in/ana-paula-oliveira-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
