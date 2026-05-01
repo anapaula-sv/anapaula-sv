@@ -1,42 +1,50 @@
-# Olá! 👋
+<div align="center">
+  <img src="https://i.ibb.co/v4mS8Xp/banner-ana.png" width="100%" alt="Banner Ana Paula">
+</div>
 
-Meu nome é **Ana Paula** e sou estudante de **Engenharia de Software**.
-Atualmente estou focada em desenvolver minhas habilidades em programação, construindo projetos para aplicar na prática o que venho aprendendo.
+# Olá, eu sou a Ana Paula! 👋
 
-Tenho interesse em desenvolvimento back-end, banco de dados e cibersegurança.
+### 👩‍💻 Sobre mim
+Sou estudante de **Engenharia de Software** e trabalho com tecnologia. Atualmente, foco meus estudos no ecossistema **Python** e no desenvolvimento de soluções voltadas para o **Back-end**.
+
+* 🔭 **Projeto Atual:** Desenvolvendo um sistema de gestão para mercearias.
+* ⚡ **Interesses:** Cibersegurança, Banco de Dados e Automação.
+* 📚 **Estudos:** Focada em Python (Data libraries), Linguagem C e Engenharia de Software Moderna.
 
 ---
 
-## 🚀 Tecnologias
+### 🚀 Tecnologias & Ferramentas
 
+**Linguagens e Backend:**
 <p>
-  <img src="https://skillicons.dev/icons?i=python" height="40" style="margin-right: 10px;">
-  <img src="https://skillicons.dev/icons?i=java" height="40" style="margin-right: 10px;">
-  <img src="https://skillicons.dev/icons?i=c" height="40" style="margin-right: 10px;">
-  <img src="https://skillicons.dev/icons?i=mysql" height="40">
+  <img src="https://skillicons.dev/icons?i=python,c,mysql&theme=dark" height="40">
+</p>
+
+**Ferramentas e Produtividade:**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,brave&theme=dark" height="40">
 </p>
 
 ---
 
-## 📚 Áreas de estudo
-
-* 💻 Desenvolvimento Back-end
-* 🗄️ Banco de Dados
-* 🔐 Cibersegurança
-
----
-
-## 📂 Projetos
-
-Aqui você encontrará projetos que desenvolvi para praticar programação e fortalecer meus conhecimentos.
+### 📊 Meu Desempenho
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+</p>
 
 ---
 
-## 📫 Contato
-
-* LinkedIn: www.linkedin.com/in/ana-paula-oliveira-1759242ab
-
+### 📫 Vamos conversar?
+<p>
+  <a href="mailto:anapaula.silva12125@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/ana-paula-oliveira-1759242ab" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 ---
-
-✨ Em constante evolução na área de tecnologia.
+<div align="center">
+  ✨ <i>Em constante evolução na área de tecnologia.</i>
+</div>
