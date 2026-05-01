@@ -40,7 +40,7 @@ Sou estudante de **Engenharia de Software** e trabalho na área de tecnologia. A
   <a href="mailto:anapaula.silva12125@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="www.linkedin.com/in/ana-paula-oliveira-dev" target="_blank">
+  <a href="https://www.linkedin.com/in/ana-paula-oliveira-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
