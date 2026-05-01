@@ -29,7 +29,9 @@ Sou estudante de **Engenharia de Software** e trabalho na área de tecnologia. A
 
 ### 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anapaula-sv" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Commits-86-ff79c6?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contribuições-49-bd93f9?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Main_Language-Python-ffffff?style=for-the-badge&logo=python&logoColor=3776ab" />
 </p>
 
 ---
