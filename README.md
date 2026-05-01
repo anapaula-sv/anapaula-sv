@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://i.ibb.co/KxbNFy9M/Banner-Linkedin-Rosa-e-Azul-Colorido-1.png" width="100%" alt="Banner Ana Paula">
+  <img src="https://i.ibb.co/W4Ljw6cD/Banner-Linkedin-Rosa-e-Azul-Colorido-1.png" width="100%" alt="Banner Ana Paula - Engenharia de Software">
 </div>
 
 # Olá, eu sou a Ana Paula! 👋
 
 ### 👩‍💻 Sobre mim
-Sou estudante de **Engenharia de Software** e atuo na área de tecnologia. Atualmente, foco meus estudos no ecossistema **Python** e no desenvolvimento de soluções voltadas para o **Back-end**.
+Sou estudante de **Engenharia de Software** e trabalho com tecnologia. Atualmente, meu foco principal é o ecossistema **Python** e o desenvolvimento de soluções voltadas para o **Back-end**.
 
 * 🔭 **Projeto Atual:** Desenvolvendo um sistema de gestão para mercearias.
 * ⚡ **Interesses:** Cibersegurança, Banco de Dados e Automação de Sistemas.
@@ -40,7 +40,7 @@ Sou estudante de **Engenharia de Software** e atuo na área de tecnologia. Atual
   <a href="mailto:anapaula.silva12125@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https:www.linkedin.com/in/ana-paula-oliveira-dev" target="_blank">
+  <a href="www.linkedin.com/in/ana-paula-oliveira-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
