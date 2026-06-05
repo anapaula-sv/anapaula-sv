@@ -4,9 +4,16 @@
 
 <br>
 
+<!-- LETRAS ANIMADAS EM HARMONIA COM SUAS CORES -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=32&duration=3000&pause=1000&color=7aaa6e&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Python+Developer;Back-end+%26+Automation;Data+Analytics+Enthusiast"/>
+</div>
+
+<br>
+
 <div align="center">
 
-![badge](https://img.shields.io/badge/estudando%20agora-SQL%20%C2%B7%20ML%20%C2%B7%20OOP-f5f0e8?style=flat-square&labelColor=2d3b2a)
+![badge](https://img.shields.io/badge/estudando%20agora-Python%20%C2%B7%20SQL%20%C2%B7%20Java-f5f0e8?style=flat-square&labelColor=2d3b2a)
 
 </div>
 
@@ -26,22 +33,22 @@ Estudante de **Engenharia de Software** e desenvolvedora Python, com foco em bac
 
 **Linguagens & back-end**
 
-![Python](https://img.shields.io/badge/Python-2d3b2a?style=flat-square&logo=python&logoColor=7aaa6e)
-![Java](https://img.shields.io/badge/Java-2d3b2a?style=flat-square&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-2d3b2a?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2d3b2a?style=for-the-badge&logo=python&logoColor=7aaa6e&v=2)
+![Java](https://img.shields.io/badge/Java-2d3b2a?style=for-the-badge&logo=openjdk&logoColor=white&v=2)
+![MySQL](https://img.shields.io/badge/MySQL-2d3b2a?style=for-the-badge&logo=mysql&logoColor=white&v=2)
 
 **Dados & análise**
 
-![Pandas](https://img.shields.io/badge/Pandas-7aaa6e?style=flat-square&logo=pandas&logoColor=2d3b2a)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-7aaa6e?style=flat-square&logo=plotly&logoColor=2d3b2a)
-![Seaborn](https://img.shields.io/badge/Seaborn-7aaa6e?style=flat-square&logo=python&logoColor=2d3b2a)
+![Pandas](https://img.shields.io/badge/Pandas-7aaa6e?style=for-the-badge&logo=pandas&logoColor=2d3b2a&v=2)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-7aaa6e?style=for-the-badge&logo=matplotlib&logoColor=2d3b2a&v=2)
+![Seaborn](https://img.shields.io/badge/Seaborn-7aaa6e?style=for-the-badge&logo=seaborn&logoColor=2d3b2a&v=2)
 
 **Ferramentas & ambiente**
 
-![Git](https://img.shields.io/badge/Git-2d3b2a?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-2d3b2a?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-2d3b2a?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-2d3b2a?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2d3b2a?style=for-the-badge&logo=git&logoColor=white&v=2)
+![GitHub](https://img.shields.io/badge/GitHub-2d3b2a?style=for-the-badge&logo=github&logoColor=white&v=2)
+![VS Code](https://img.shields.io/badge/VS_Code-2d3b2a?style=for-the-badge&logo=visualstudiocode&logoColor=white&v=2)
+![Linux](https://img.shields.io/badge/Linux-2d3b2a?style=for-the-badge&logo=linux&logoColor=white&v=2)
 
 ---
 
@@ -49,25 +56,24 @@ Estudante de **Engenharia de Software** e desenvolvedora Python, com foco em bac
 
 **📊 Análise de Negócios** — análise exploratória de dataset empresarial com insights de vendas e clientes
 ![Python](https://img.shields.io/badge/Python-2d3b2a?style=flat-square&logo=python&logoColor=7aaa6e)
-![Pandas](https://img.shields.io/badge/Pandas-7aaa6e?style=flat-square)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-7aaa6e?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-7aaa6e?style=flat-square&logo=pandas&logoColor=2d3b2a)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-7aaa6e?style=flat-square&logo=matplotlib&logoColor=2d3b2a)
 
 **🏥 Análise Hospitalar** — insights a partir de dados hospitalares com visualizações e métricas clínicas
 ![Python](https://img.shields.io/badge/Python-2d3b2a?style=flat-square&logo=python&logoColor=7aaa6e)
-![Pandas](https://img.shields.io/badge/Pandas-7aaa6e?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-7aaa6e?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-7aaa6e?style=flat-square&logo=pandas&logoColor=2d3b2a)
+![Seaborn](https://img.shields.io/badge/Seaborn-7aaa6e?style=flat-square&logo=seaborn&logoColor=2d3b2a)
 
 **💰 Finanças Pessoais** — script de controle financeiro com menu interativo e persistência JSON
 ![Python](https://img.shields.io/badge/Python-2d3b2a?style=flat-square&logo=python&logoColor=7aaa6e)
-![JSON](https://img.shields.io/badge/JSON-7aaa6e?style=flat-square)
+![JSON](https://img.shields.io/badge/JSON-7aaa6e?style=flat-square&logo=json&logoColor=2d3b2a)
 
 ---
 
-### ✦ estatísticas
+### ✦ gráfico de contribuição 
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=anapaula-sv&show_icons=true&title_color=7aaa6e&icon_color=7aaa6e&text_color=ffffff&bg_color=2d3b2a&border_color=7aaa6e" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapaula-sv&layout=compact&title_color=7aaa6e&text_color=ffffff&bg_color=2d3b2a&border_color=7aaa6e" />
+  <img src="https://raw.githubusercontent.com/anapaula-sv/anapaula-sv/output/pacman-contribution-graph-dark.svg" width="100%" alt="Pacman Graph">
 </div>
 
 ---
