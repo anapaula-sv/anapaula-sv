@@ -87,5 +87,5 @@ Estudante de **Engenharia de Software** e desenvolvedora Python, com foco em bac
 <br>
 
 <div align="center">
-  <sub>✦ em constante evolução — aprendendo na prática, um projeto de cada vez ✦</sub>
+  <sub>✦ em constante evolução, aprendendo na prática, um projeto de cada vez ✦</sub>
 </div>
