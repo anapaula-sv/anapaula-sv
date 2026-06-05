@@ -4,7 +4,7 @@
 
 <br>
 
-<!-- LETRAS ANIMADAS EM HARMONIA COM SUAS CORES -->
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=32&duration=3000&pause=1000&color=7aaa6e&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Python+Developer;Back-end+%26+Automation;Data+Analytics+Enthusiast"/>
 </div>
