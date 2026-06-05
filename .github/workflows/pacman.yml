@@ -11,13 +11,15 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate Animation
-        uses: Platane/snk/svg-only@v3
+    
+      - name: Generate Pacman SVG
+        uses: jasonlong/github-contribution-stats@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark&color_snake=#7aaa6e&color_dots=#2d3b2a,#3d4f39,#526b4d,#66845f,#7aaa6e
-            
+          output: dist/pacman-contribution-graph-dark.svg
+          theme: classic-dark
+
+
       - name: Push Pacman SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
