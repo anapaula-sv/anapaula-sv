@@ -9,15 +9,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=32&duration=3000&pause=1000&color=7aaa6e&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Python+Developer;Back-end+%26+Automation;Data+Analytics+Enthusiast"/>
 </div>
 
-<br>
-
 <div align="center">
 
-![badge](https://img.shields.io/badge/estudando%20agora-Python%20%C2%B7%20SQL%20%C2%B7%20Java-f5f0e8?style=flat-square&labelColor=2d3b2a)
+![](https://img.shields.io/badge/Python-2d3b2a?style=flat-square&logo=python&logoColor=7aaa6e)
+![](https://img.shields.io/badge/SQL-2d3b2a?style=flat-square&logo=postgresql&logoColor=7aaa6e)
+![](https://img.shields.io/badge/Machine%20Learning-2d3b2a?style=flat-square&logo=scikitlearn&logoColor=7aaa6e)
+![](https://img.shields.io/badge/Pandas-2d3b2a?style=flat-square&logo=pandas&logoColor=7aaa6e)
+![](https://img.shields.io/badge/Estatística-2d3b2a?style=flat-square&logo=scipy&logoColor=7aaa6e)
 
 </div>
-
-<br>
 
 ### ✦ sobre mim
 
