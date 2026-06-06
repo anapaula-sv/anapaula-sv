@@ -23,9 +23,9 @@
 
 Estudante de **Engenharia de Software** e desenvolvedora Python, com foco em back-end, análise de dados e automação. Aprendo fazendo — cada projeto é uma oportunidade de consolidar o que estudo.
 
-- 🔭 **Projeto atual:** sistema de gestão para mercearias em Python
-- 📊 **Stack de dados:** Pandas, SQL com window functions e CTEs
-- ⚡ **Interesses:** cibersegurança, banco de dados e automação de sistemas
+-  **Projeto atual:** sistema de gestão para mercearias em Python
+-  **Stack de dados:** Pandas, SQL com window functions e CTEs
+-  **Interesses:** cibersegurança, banco de dados e automação de sistemas
 
 ---
 
