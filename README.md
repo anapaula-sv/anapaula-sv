@@ -54,19 +54,11 @@ Estudante de **Engenharia de Software** e desenvolvedora Python, com foco em bac
 
 ### ✦ projetos
 
-**📊 Análise de Negócios** — análise exploratória de dataset empresarial com insights de vendas e clientes
-![Python](https://img.shields.io/badge/Python-2d3b2a?style=flat-square&logo=python&logoColor=7aaa6e)
-![Pandas](https://img.shields.io/badge/Pandas-7aaa6e?style=flat-square&logo=pandas&logoColor=2d3b2a)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-7aaa6e?style=flat-square&logo=matplotlib&logoColor=2d3b2a)
-
-**🏥 Análise Hospitalar** — insights a partir de dados hospitalares com visualizações e métricas clínicas
-![Python](https://img.shields.io/badge/Python-2d3b2a?style=flat-square&logo=python&logoColor=7aaa6e)
-![Pandas](https://img.shields.io/badge/Pandas-7aaa6e?style=flat-square&logo=pandas&logoColor=2d3b2a)
-![Seaborn](https://img.shields.io/badge/Seaborn-7aaa6e?style=flat-square&logo=seaborn&logoColor=2d3b2a)
-
-**💰 Finanças Pessoais** — script de controle financeiro com menu interativo e persistência JSON
-![Python](https://img.shields.io/badge/Python-2d3b2a?style=flat-square&logo=python&logoColor=7aaa6e)
-![JSON](https://img.shields.io/badge/JSON-7aaa6e?style=flat-square&logo=json&logoColor=2d3b2a)
+| projeto | descrição | stack |
+|---|---|---|
+| <b>Análise de Negócios</b> | análise exploratória de dataset empresarial com insights de vendas e clientes | ![](https://img.shields.io/badge/Python-2d3b2a?style=flat-square&logo=python&logoColor=7aaa6e) ![](https://img.shields.io/badge/Pandas-2d3b2a?style=flat-square&logo=pandas&logoColor=7aaa6e) ![](https://img.shields.io/badge/Matplotlib-2d3b2a?style=flat-square&logo=plotly&logoColor=7aaa6e) |
+| <b>Análise Hospitalar</b> | insights a partir de dados hospitalares com visualizações e métricas clínicas | ![](https://img.shields.io/badge/Python-2d3b2a?style=flat-square&logo=python&logoColor=7aaa6e) ![](https://img.shields.io/badge/Pandas-2d3b2a?style=flat-square&logo=pandas&logoColor=7aaa6e) ![](https://img.shields.io/badge/Seaborn-2d3b2a?style=flat-square&logo=python&logoColor=7aaa6e) |
+| <b>Finanças Pessoais</b> | script de controle financeiro com menu interativo e persistência JSON | ![](https://img.shields.io/badge/Python-2d3b2a?style=flat-square&logo=python&logoColor=7aaa6e) ![](https://img.shields.io/badge/JSON-2d3b2a?style=flat-square&logo=json&logoColor=7aaa6e) |
 
 ---
 
